@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Michal, born 00', currently trying to set in my new life
+- 👀 I’m interested in the Ukrainian war, volunteering and creating new things
+- 🌱 I’m currently learning Python, JS and PowerBI
+- 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/micha%C5%82-penar-0915/
+- e-mail: michal.penar.k@gmail.com
